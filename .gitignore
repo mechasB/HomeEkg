@@ -1,0 +1,14 @@
+/.metadata/
+
+#CubeIde Files 
+Debug/
+.mxproject*
+.project*
+.cproject*
+
+*.log
+*.xml
+*.html
+*.chm
+
+_htmresc
