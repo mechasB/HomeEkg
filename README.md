@@ -20,6 +20,8 @@ The main goal of the project was to expand skills in programming STM32 microcont
 ## 2. Project description
 The project involves building a device that will enable measuring the pulse and blood oxygenation level and recording the measured data on a portable device, e.g. a pendrive. Values measured using an appropriate sensor are displayed on the touch display along with the work log and the current time. It is possible to save measurements on an external device using a touch button on the display along with all data such as measurement time, etc.
 
+![during assembly](./Photos for ReadMe/Schematic diagram.jpg)
+
 ## 3. Tools
 Equipment used in the project:
 - microcontroller - STM32F411CEU6 on the "Blackpill" development board
@@ -43,5 +45,5 @@ IT tools:
 - Fusion 360
 
 ## 4. Environment configuration
-
+![during assembly](./Photos for ReadMe/SS_CubeMX_1.png)
 
