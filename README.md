@@ -29,7 +29,7 @@ Equipment used in the project:
   
 - resistive display with ILI9341 controller and XPT2046 touch controller
 - pulse and blood oxygenation sensor – MAX30102
--basic electronic components such as wires, resistors, capacitors, etc.
+- basic electronic components such as wires, resistors, capacitors, etc.
 - USB socket
 
 Additional tool used when creating work:
